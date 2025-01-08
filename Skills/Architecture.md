@@ -1,10 +1,10 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
+  - Modularity*
+  - Components*
+  - Directories*
+  - GRASP~
   - SOLID
   - GoF patterns
   - CQS
@@ -15,8 +15,8 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion*
+  - Coupling+
   - Cyclomatic complexity
   - Reliability
   - Quality
