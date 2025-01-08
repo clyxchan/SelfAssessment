@@ -4,69 +4,69 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm*
-  - Syntax*
-  - Semantics+
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
   - Abstraction
   - Paradigm
-  - Programm*
-  - Programming paradigm~
-  - Programming language*
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
-  - Module~
-  - Library~
+  - Module: 👂 heard
+  - Library: 👂 heard
   - Package
   - Component
-  - Framework~
-  - Platform+
+  - Framework: 👂 heard
+  - Platform: 🎓 known
   - Source code
   - Object code
-  - Machine code+
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering+
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse~
+  - Code reuse: 👂 heard
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value*
-  - Identifier*
-  - Variable*
-  - Constant*
-  - Scalar+
-  - Literal*
-  - Expression*
-  - Heap~
-  - Function*
-  - Procedure+
-  - Method*
-  - Clas~
-  - Prototype~
-  - Event~
-  - Type*
-  - Flag*
-  - Lexical scope~
-  - Code block~
-  - Conditions*
-  - Loops*
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🎓 known
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 👂 heard
+  - Function: 🖐️ used
+  - Procedure: 🎓 known
+  - Method: 🖐️ used
+  - Clas: 👂 heard
+  - Prototype: 👂 heard
+  - Event: 👂 heard
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 👂 heard
+  - Code block: 👂 heard
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression+
-  - Interface~
+  - Regular expression: 🎓 known
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
-  - Naming conventions*
-  - Coding conventions*
-  - Camel case*
-  - Snake case*
-  - Kebab case~
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 👂 heard
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types*
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument*
-  - Parameter*
-  - Pure function+
-  - Lambda expression*
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🎓 known
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure~
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback~
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array*
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
@@ -128,21 +128,21 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON+
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS~
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4~
-  - IPv6~
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL*
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler*
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,28 +157,28 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger*
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring*
-  - Code review*
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git*
-  - Github*
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers+
-  - Hard code+
-  - Soft code+
-  - Cryptic code+
-  - Improbability factor*
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 🖐️ used
   - Accidental complexity
   - Action at a distance
-  - Spaghetti+
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops*
-  - Long method/function/procedure*
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🖐️ used
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case*
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system*
-  - Linux+
+  - File system: 🖐️ used
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS+
-  - Windows*
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8*
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
