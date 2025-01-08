@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,10 +22,10 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise: 🎓 known
   - Async/await
   - Future
   - Deferred
